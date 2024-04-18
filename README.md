@@ -24,4 +24,4 @@ The My Travel Chatbot project is a web-based application designed to provide use
 
 ## Summary
 
-The My Travel Chatbot project aims to enhance the travel experience by providing users with comprehensive travel information and assistance in a user-friendly and accessible manner.
+My Travel Chatbot project aims to enhance the travel experience by providing users with comprehensive travel information and assistance in a user-friendly and accessible manner.
