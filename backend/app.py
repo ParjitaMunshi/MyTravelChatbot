@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app)
 
 # OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'OpenAI API Key'
 
 # SQLite travel database connection
 conn = sqlite3.connect('travel_database.db', check_same_thread=False)
